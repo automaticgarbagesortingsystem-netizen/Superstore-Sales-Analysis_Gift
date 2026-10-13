@@ -24,6 +24,7 @@ The dataset contains information about products sales at the superstore market. 
 •	Check data types, blanks and duplicates
 
 ## Data Modelling
+![](https://github.com/automaticgarbagesortingsystem-netizen/Superstore-Sales-Analysis_Gift/blob/main/Data-Modelling.PNG)
 The single data was broken down into 4 different tables: Products, Customers, 
 Relationships: created relationship between the products and the sales table using the ProductID. Customers and Sales using the 
 Direction: Single, or Both
@@ -31,12 +32,16 @@ Direction: Single, or Both
 ## Analysis and Visualisation
 
 ### Revenue by Region
+![](https://github.com/automaticgarbagesortingsystem-netizen/Superstore-Sales-Analysis_Gift/blob/main/Revenue-by-Region.PNG)
+
 The west generated the highest revenue of 30million, which is about 30% of the total the total sales made.
 The south and east had the lowest revenue.
 
 ### Profit by Category
 
 
+## Dashboard
+![](https://github.com/automaticgarbagesortingsystem-netizen/Superstore-Sales-Analysis_Gift/blob/main/Superstore-Sales-Dashboard.jpg)
 
 ### Insights
 1.	The West performed better compare to the other regions
